@@ -54,8 +54,9 @@ _Support ongoing maintenance and curation via [GitHub Sponsors](https://github.c
 
 ## Sensors & Telemetry
 
-- [MAVLink](https://mavlink.io/en/) – Micro Air Vehicle communication protocol used in most open-source drone systems.
 - [DroneCAN](https://dronecan.github.io/) – Open standard for UAV sensor and component communication.
+- [FPVTune](https://github.com/chugzb/betaflight-pid-autotuning) – Betaflight blackbox log analysis and PID/filter tuning guidance.
+- [MAVLink](https://mavlink.io/en/) – Micro Air Vehicle communication protocol used in most open-source drone systems.
 - [OpenLRSng](https://github.com/openLRSng/openLRSng) – Open-source long-range telemetry firmware.
 
 ## Hardware Projects
