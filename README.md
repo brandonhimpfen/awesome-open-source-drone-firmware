@@ -1,4 +1,4 @@
-# Awesome Open Source Drone Firmware [![Awesome Lists](https://srv-cdn.himpfen.io/badges/awesome-lists/awesomelists-flat.svg)](https://github.com/awesomelistsio/awesome)
+# Awesome Open Source Drone Firmware [![Awesome Lists](https://srv-cdn.himpfen.io/badges/awesome-lists/awesomelists-flat.svg)](https://github.com/brandonhimpfen/awesome-lists)
 
 [![DOI](https://zenodo.org/badge/1020474822.svg)](https://doi.org/10.5281/zenodo.19680793)  
 [![GitHub Sponsor](https://srv-cdn.himpfen.io/badges/github/github-flat.svg)](https://github.com/sponsors/brandonhimpfen) &nbsp; 
@@ -73,9 +73,9 @@ _Support ongoing maintenance and curation via [GitHub Sponsors](https://github.c
 
 ## Related Awesome Lists
 
-- **[Awesome Robotics](https://github.com/awesomelistsio/awesome-robotics)** – Robotics tools, frameworks, and resources.
-- **[Awesome Aerospace Engineering](https://github.com/awesomelistsio/awesome-aerospace-engineering)** – Aerospace engineering tools and projects.
-- **[Awesome IoT](https://github.com/awesomelistsio/awesome-iot)** – Internet of Things resources and tools.
+- **[Awesome Robotics](https://github.com/brandonhimpfen/awesome-robotics)** – Robotics tools, frameworks, and resources.
+- **[Awesome Aerospace Engineering](https://github.com/brandonhimpfen/awesome-aerospace-engineering)** – Aerospace engineering tools and projects.
+- **[Awesome IoT](https://github.com/brandonhimpfen/awesome-iot)** – Internet of Things resources and tools.
   
 ## Contribute
 
